@@ -1,0 +1,22 @@
+{
+  "user_id": 1001,
+  "username": "coder_x",
+  "is_active": true,
+  "profile": {                                 
+    "real_name": "Alex",
+    "email": null,
+    "address": {                              
+      "city": "Cyber City",
+      "zip_code": "90210"
+    }
+  },
+  "courses": [                                
+    "C++ Programming",
+    "Data Structures",
+    "Network Protocols"
+  ],
+  "friends": [                              
+    { "id": 1002, "name": "Bob" },
+    { "id": 1003, "name": "Charlie" }
+  ]
+}
